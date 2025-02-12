@@ -2,7 +2,8 @@
 🧑🏻‍🔧 IT Engineer sovling problem with innovation ideas in tech<br/>
 🧑🏻‍🎓 Study [Information Science](https://sils.unc.edu/master-of-science-in-information-science-msis/) at the University of North Carolina at Chapel Hill<br/>
 🧑🏻‍💻 I’m currently working on Research Assistant in School of Information and Library Science School<br/>
-🌱 Currently learning about Deep Learning in NLP<br/><br>📫 How to reach me: Hsinning@ad.unc.edu
+🌱 Currently learning about Deep Learning in NLP<br/>
+📫 How to reach me: Hsinning@ad.unc.edu
 
 
 # 💻 Tech Stack:
